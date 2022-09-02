@@ -16,9 +16,12 @@ h1 {
     text-align: center;
     font-size: 50px;
     box-sizing: border-box;
-    display: inline-block;
     margin: 0 auto;
-    vertical-align: auto;
+    padding-top: 37.7vh;
+}
+#subheading {
+    font-size: 20px;
+    padding: 0.13%;
 }
 p {
     text-align: center;
@@ -27,8 +30,21 @@ p {
     margin: 0 auto;
     line-height: 1.6em;
 }
-button {
-    color: rgb(50, 34, 196);
+#button {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    height: 29px;
+    width: fit-content;
+    line-height: 29px;
+    display: inline-block;
+    text-decoration: none;
+    color: #926239;
+    padding: 10px 20px;
+    border: 1px solid #926239;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 44.6vw;
 }
 .block {
     display: inline-block;
