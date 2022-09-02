@@ -1,0 +1,21 @@
+body {
+    background-image: url('./images/beachshowcase.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+button {
+    color: rgb(50, 34, 196);
+}
+.block {
+    display: inline-block;
+}
