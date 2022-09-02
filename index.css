@@ -37,14 +37,14 @@ p {
     height: 29px;
     width: fit-content;
     line-height: 29px;
-    display: inline-block;
+    display: block;
     text-decoration: none;
     color: #926239;
     padding: 10px 20px;
     border: 1px solid #926239;
     border-radius: 10px;
+    margin: 0 auto;
     margin-top: 20px;
-    margin-left: 44.6vw;
 }
 .block {
     display: inline-block;
