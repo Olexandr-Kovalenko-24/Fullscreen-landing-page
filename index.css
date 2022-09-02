@@ -25,13 +25,15 @@ p {
     font-size: 17px;
     padding: 1.5%;
     margin: 0 auto;
+    line-height: 1.6em;
 }
 button {
     color: rgb(50, 34, 196);
 }
 .block {
     display: inline-block;
-    width: 32vw;
+    box-sizing: border-box;
+    width: 32.7vw;
     text-align: left;
 }
 .dark {
@@ -39,5 +41,8 @@ button {
     color: white;
 }
 .light {
-    background-color: #faf9f8c9;
+    background-color: rgb(243, 243, 243);
+}
+.lighter {
+    background-color: rgb(249, 249, 249);
 }
