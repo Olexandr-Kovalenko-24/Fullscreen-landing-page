@@ -62,3 +62,10 @@ p {
 .lighter {
     background-color: rgb(249, 249, 249);
 }
+
+@media screen and (max-width: 576px) {
+    .block {
+        display: block;
+        width: 100%;
+    }
+}
